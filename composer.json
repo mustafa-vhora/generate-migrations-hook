@@ -1,5 +1,5 @@
 {
-  "name": "generate-migrations-hook",
+  "name": "mustafa/generate-migrations-hook",
   "description": "This hook is to generate voyager-only migration for laravel app",
   "version": "v0.1.3beta",
   "license": "MIT",
